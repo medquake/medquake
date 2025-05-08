@@ -1,4 +1,4 @@
-![Banner](https://github.com/medquake/mohammed/blob/main/medquake-banner.gif?raw=true)
+![Banner](https://github.com/medquake/mohammed/blob/main/Banni%C3%A8re%20Notion%20oc%C3%A9an%20illustratif%20bleu%20orange.png?raw=true)
 # Hey, I'm Mohamed
 
 **Cybersecurity student | Email Copywriter | Future Red Teamer**
