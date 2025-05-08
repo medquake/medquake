@@ -1,3 +1,4 @@
+![Banner](https://github.com/medquake/mohammed/blob/main/medquake-banner.gif?raw=true)
 # Hey, I'm Mohamed
 
 **Cybersecurity student | Email Copywriter | Future Red Teamer**
