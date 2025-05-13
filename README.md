@@ -51,10 +51,6 @@ I’m a first-year MIP (Math, Computer Science, Physics) student at the Polydisc
 
 > “Discipline over motivation. Every. Damn. Day.”
 
-## 🐍 GitHub Contributions Snake
-
 ![snake gif](https://github.com/medquake/medquake/blob/output/github-contribution-grid-snake.svg)
-
----
 
 
