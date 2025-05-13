@@ -3,15 +3,28 @@
 
 **Cybersecurity student | Email Copywriter | Future Red Teamer**
 
-I'm on a mission to master hacking, build sharp skills in ethical cybersecurity, and help brands grow through killer email strategies. 
+I’m a first-year MIP (Math, Computer Science, Physics) student at the Polydisciplinary Faculty of Safi, with a strong passion for IT, cybersecurity, and entrepreneurship. I hold several certifications in tech, and I’m currently part of the ALX Pathway Program while building my own copywriting and email sales company. Known for leadership, teamwork, and critical thinking, I bring a problem-solving mindset to everything I do and aim to grow into a powerful force in the tech and business world
 
-Even though I’m still a student, I treat my journey like a professional — every day is a step forward, and every line of code or copy gets me closer.
+## 📜 Certificates & Skills
 
-### What I'm Working On:
-- Learning ethical hacking (TryHackMe, Hack The Box)
-- Studying Linux, networking, and Python
-- Crafting cold emails that actually convert
-- Building my first open-source project soon (stay tuned)
+- ✅ **Agile Project Management** – HP LIFE  
+  *Strong understanding of Agile workflows and effective team collaboration*
+
+- ✅ **Microsoft 365 Copilot & Business Chat** – Microsoft  
+  *Skilled in using AI-powered tools to enhance productivity and communication*
+
+- ✅ **Introduction to Data Science & Analytics** – HP LIFE  
+  *Familiar with data-driven thinking, basic analytics tools, and core concepts*
+
+- ✅ **Cybersecurity Awareness (Intro Level)** – HP LIFE  
+  *Understanding of fundamental security principles and digital safety practices*
+
+- ✅ **Introduction to Cybersecurity** – HP LIFE  
+  *Basic cybersecurity knowledge, including threats, prevention, and protection*
+
+- ✅ **Agile Work Management** – HP LIFE  
+  *Practical application of Agile principles in work environments*
+
 
 ### Tools I’m Learning:
 - Kali Linux / Parrot OS
